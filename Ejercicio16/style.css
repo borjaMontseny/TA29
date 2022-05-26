@@ -1,0 +1,35 @@
+table {
+    border: 2px solid rgb(8, 8, 8);
+    color: brown;
+
+    background-image: url("fondoPerruno.jpg")
+}
+
+tr {
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid black;
+}
+
+.celda-naranja{
+    background-color: rgb(255, 180, 81);
+}
+
+.celda-rosa{
+    background-color: rgb(245, 194, 255);
+}
+
+.celda-verde{
+    background-color: rgb(63, 194, 122);
+}
+
+.celda-amarilla{
+    background-color: rgb(247, 255, 140);
+}
+
+.centrado{
+    text-align: center;
+}
+

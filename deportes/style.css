@@ -1,0 +1,22 @@
+table{
+    border:2px solid rgb(167, 193, 250);
+    background-color: rgb(217, 236, 185);
+}
+
+tr{
+    border:2px solid rgb(21, 55, 247);
+}
+
+th{
+    border:2px solid rgb(94, 93, 163);
+    background-color: rgb(113, 122, 97);
+}
+
+td{
+    border:2px solid rgb(100, 185, 241);
+    background-color: rgb(188, 241, 94);
+}
+
+.centrado{
+    text-align: center;
+}

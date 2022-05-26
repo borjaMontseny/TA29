@@ -1,0 +1,36 @@
+table {
+    border: 1px solid black;
+    width: 100%;
+}
+
+th {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+}
+
+#celda1 {
+    background-color: rgb(119, 247, 193);
+    text-align: center;
+}
+
+.rojo-centrado {
+    color: red;
+    text-align: center;
+}
+
+.azul {
+    background-color: aqua;
+}
+
+.centrado {
+    text-align: center;
+}
+
+.celda6{
+    background-color: rgb(176, 125, 224);
+    text-align: right;
+    padding-top: 20px;
+}
