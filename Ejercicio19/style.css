@@ -1,0 +1,16 @@
+table {
+    border: rgba(180, 172, 172, 0.979) 2px solid;
+    margin: 0px;
+    padding: 0px;
+    width: 80%;
+    position: relative;
+}
+
+th, td{
+    padding: 5px;
+    border: 2px solid black;
+}
+
+#españa{
+    font-weight: bolder;
+}
